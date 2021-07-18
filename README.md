@@ -4,5 +4,5 @@
 |---------|-------------------|
 |   `C`   | Camera Packet     |
 
-![Boxes](pictures/arras hacky pic.png)
-![Bots](pictures/bots.png)
+![Boxes](pictures/arras hacky pic.PNG)
+![Bots](pictures/bots.PNG)
