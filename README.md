@@ -10,7 +10,7 @@
 | `s`     | Spawn With Name   |
 | `L`     | Leveling Up       |
 
-### Outgoing Packets
+### Incoming Packets
 | Header  | Information       |
 |---------|-------------------|
 | `u`     | Maybe Position    |
