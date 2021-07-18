@@ -6,12 +6,12 @@ Updated (For now) Arras.io Protocol.
 
 `OUTGOING PACKETS`
 
-
-
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 `CANVAS STUFF`
 
-TEAMS:
+------------------------------------------------------------------------------------
 
 `Blue Team Fill: #3ca4cb`
 
@@ -29,9 +29,6 @@ TEAMS:
 
 `Magenta Team Stroke: #765265`
 
-
-SHAPES:
-
 `Square Fill: #efc74b`
 
 `Square Stroke: #827449`
@@ -43,9 +40,6 @@ SHAPES:
 `Pentagon Fill: #8d6adf`
 
 `Pentagon Stroke: #60537c`
-
-
-OTHERS OBJECTS:
 
 `Turret Fill: #a7a7af`
 
