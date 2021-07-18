@@ -13,8 +13,8 @@
 ### Incoming Packets
 | Header  | Information       |
 |---------|-------------------|
-| `u`     | Maybe Position    |
-| `b`     | Leaderboard       |
+| `u`     | update            |
+| `b`     | Broadcast         |
 
 ![Bots](pictures/bots.PNG)
 ![FOV](pictures/fov.PNG)
