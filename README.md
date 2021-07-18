@@ -1,10 +1,8 @@
 # Arrasio Protocol
-
-(Arrasio-Protocol/arras hacky pic.png)
-
-
-
 ### Incoming Packets
 |  Header |    Description    |
 |---------|-------------------|
 |   `C`   | Camera Packet     |
+
+![Boxes](pictures/arras hacky pic.png)
+![Bots](pictures/bots.png)
