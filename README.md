@@ -1,6 +1,4 @@
-# Diepssect
-
-[Arras.io Protocol](Arrasio-Protocol/arras hacky pic.png)
+(Arrasio-Protocol/arras hacky pic.png)
 
 
 
