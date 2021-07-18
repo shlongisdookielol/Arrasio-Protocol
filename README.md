@@ -14,7 +14,7 @@
 | Header  | Information       |
 |---------|-------------------|
 | `u`     | Maybe Position    |
-| `b`     | Leader (I Think)  |
+| `b`     | Leaderboard       |
 
 ![Bots](pictures/bots.PNG)
 ![FOV](pictures/fov.PNG)
