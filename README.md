@@ -1,2 +1,10 @@
-`Whalecum to the pro repo for arras hacky stuff`
-(arras hacky pic.png)
+# Diepssect
+
+[Arras.io Protocol](images/arras hacky pic.png)
+
+
+
+### Incoming Packets
+|  Header |    Description    |
+|---------|-------------------|
+|   `C`   | Camera Packet     |
