@@ -1,4 +1,4 @@
-# Arrasio Protocol
+# Arrasio Protocol (shlong#2873 and Cesnad#0803)
 ### Outgoing Packets
 | Header  | Information       |
 |---------|-------------------|
