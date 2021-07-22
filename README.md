@@ -1,14 +1,14 @@
 # Arrasio Protocol (shlong#2873 and Cesnad#0803)
 ### Outgoing Packets
-| Header  | Information       |
-|---------|-------------------|
-| `C`     | Camera Packet     |
-| `d`     | Ticks Camera      |
-| `p`     | Ping              |
-| `x`     | Upgrade Stats     |
-| `U`     | Upgrade Tank      |
-| `s`     | Spawn With Name   |
-| `L`     | Leveling Up       |
+| Header  | What It Is        | Explanation                           |
+|---------|-------------------|---------------------------------------|
+| `C`     | Camera Packet     | Contains Camera X & Y, FoV, and more. |
+| `d`     | Ticks Camera      | Ticks your camera.                    |
+| `p`     | Ping              | Obtains your ping.                    |
+| `x`     | Upgrade Stats     | Sends what stats you want.            |
+| `U`     | Upgrade Tank      | Send what tank you want to upgrade as.|
+| `s`     | Spawn Packet      | Contains your name and party id.      |
+| `L`     | Leveling Up       | Levels you up                         |
 
 ### Incoming Packets
 | Header  | Information       |
